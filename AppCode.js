@@ -1,1 +1,1 @@
-export const globalAppCode = '54137662273ec8298e3dfd76e8d2533a';
+export const globalAppCode = '1BVSyXnxnMB3gdnTauVsZTAdtTooujtn';
