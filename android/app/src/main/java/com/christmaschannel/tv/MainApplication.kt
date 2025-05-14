@@ -1,4 +1,4 @@
-package com.christmaschannel.tv
+package com.reelmax.tv
 
 import android.app.Application
 import com.facebook.react.PackageList

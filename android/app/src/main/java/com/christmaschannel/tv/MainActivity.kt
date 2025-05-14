@@ -1,4 +1,4 @@
-package com.christmaschannel.tv
+package com.reelmax.tv
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.christmaschannel.tv"
+    namespace "com.reelmax.tv"
     defaultConfig {
-        applicationId "com.christmaschannel.tv"
+        applicationId "com.reelmax.tv"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 200

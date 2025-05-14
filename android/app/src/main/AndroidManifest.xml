@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"  package="com.christmaschannel.tv">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"  package="com.reelmax.tv">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
